@@ -1,6 +1,6 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: hsl(200, 38%, 55%);
+    background-color: hsl(200, 41%, 54%);
     max-width: 900px;
     margin: 20px auto;
     color: #333;
@@ -52,7 +52,7 @@ nav a:hover {
 }
 
 .seccion {
-    background-color: #74b9ff;
+    background-color: #68a9e9;
     border-radius: 10px;
     padding: 20px;
     margin-bottom: 20px;
@@ -91,7 +91,7 @@ button {
 }
 
 button:hover {
-    background-color: #5649c9;
+    background-color: #594cd1;
 }
 
 #resultado,
